@@ -32,6 +32,12 @@ collections:
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list" }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "select",
+          ["None", "Energy", "Coal", "Solar", "Climate"],
+        }
 
   - name: "pages"
     label: "Pages"
