@@ -3,9 +3,12 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
+
 <h1 align="center">
   Gatsby Minimal Starter
 </h1>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5d372814-5d50-489c-b280-2e4323778d2b/deploy-status)](https://app.netlify.com/sites/beamish-marshmallow-71ebf1/deploys)
 
 ## 🚀 Quick start
 
