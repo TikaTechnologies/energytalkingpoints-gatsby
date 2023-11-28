@@ -8,6 +8,12 @@ class Search extends Component {
         results: [],
     }
 
+    componentDidMount() {
+        var index = window.__FLEXSEARCH__.en.index
+
+
+    }
+
     render() {
         const ResultList = () => {
             if (this.state.results.length > 0) {
