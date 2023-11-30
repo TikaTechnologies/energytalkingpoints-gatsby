@@ -1107,13 +1107,13 @@ export default IndexPage
 
 export const Head = () => <title>Home Page</title>
 
-export const indexPageQuery = graphql`
-  query IndexPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
-      frontmatter {
-        title
-      }
-    }
-  }
-`;
+// export const indexPageQuery = graphql`
+//   query IndexPage($id: String!) {
+//     markdownRemark(id: { eq: $id }) {
+//       html
+//       frontmatter {
+//         title
+//       }
+//     }
+//   }
+// `;
