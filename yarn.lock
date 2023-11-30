@@ -6288,21 +6288,6 @@ gatsby-plugin-image@^3.12.3:
     objectFitPolyfill "^2.3.5"
     prop-types "^15.8.1"
 
-gatsby-plugin-netlify-cms@^7.12.0:
-  version "7.12.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-7.12.0.tgz#557cfade28236b000baa5f9eb03be5007d193cfb"
-  integrity sha512-RCyPz3nmu7hfK4SMZydE4qdKKIzInE+ghSFkDnZJVrSk+4vGKlvblKhugQgOf6qpSkIEpsjKA57mf9xbAqasWA==
-  dependencies:
-    "@babel/runtime" "^7.20.13"
-    "@soda/friendly-errors-webpack-plugin" "1.8.1"
-    copy-webpack-plugin "^7.0.0"
-    html-webpack-plugin "^5.5.3"
-    html-webpack-skip-assets-plugin "^1.0.3"
-    html-webpack-tags-plugin "^3.0.2"
-    lodash "^4.17.21"
-    mini-css-extract-plugin "1.6.2"
-    netlify-identity-widget "^1.9.2"
-
 gatsby-plugin-page-creator@^5.12.3:
   version "5.12.3"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-5.12.3.tgz#61ae00423dccf617e0daab5ec57e92ce280199fd"
